@@ -21,17 +21,17 @@ LIST = {}
 
 @app.on_message(filters.command(['start']))
 async def start(client, message):
- await message.reply_text(text =f"""Hello {message.from_user.first_name }I'm 𝐈𝐌𝐀𝐆𝐄 𝐓𝐎 𝐏𝐃𝐅 𝐁𝐎𝐓. 
+ await message.reply_text(text =f"""✋Hello {message.from_user.first_name }I'm 𝐈𝐌𝐀𝐆𝐄 𝐓𝐎 𝐏𝐃𝐅 𝐁𝐎𝐓. 
 
 I can convert Image to PDF.
 
-This bot was created by @epusthakalaya_bots""",reply_to_message_id = message.message_id ,  reply_markup=InlineKeyboardMarkup(
+This bot was created by @ToxicDeeModder""",reply_to_message_id = message.message_id ,  reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ" ,url="https://t.me/epusthakalayabotsupport"),
-                    InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ" ,url="https://t.me/epusthakalaya_bots"),
+                    InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ" ,url="https://t.me/ToxicDeeModderr"),
+                    InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ" ,url="https://t.me/TheBotsWorldChannel"),
                 ],
-                 [InlineKeyboardButton("ʀᴇᴠɪᴇᴡ ᴍᴇ", url="https://t.me/tlgrmcbot?start=epu_imagetopdf_bot") ]       
+                 [InlineKeyboardButton("ʀᴇᴠɪᴇᴡ ᴍᴇ", url="https://t.me/TheBotsWorldChannel") ]       
             ]        
  )
  )
