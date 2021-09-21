@@ -12,12 +12,12 @@
 
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Madushankabro/ImageToPDF-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ToxicDeeModder1/ImageToPDF-Bot)
 
 
 
 ## Credits
-<a href="https://github.com/lntechnical2/Imagetopdf">
+<a href="https://github.com/ToxicDeeModder1/Imagetopdf">
    <p> lntechnical2 </p>
   </a>
 
